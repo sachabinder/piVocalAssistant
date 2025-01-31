@@ -61,7 +61,7 @@ ctl.!default {
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-repo/piVocalAssistant.git
+git clone https://github.com/sachabinder/piVocalAssistant.git
 ```
 
 ### Step 2: Set Up a Virtual Environment
