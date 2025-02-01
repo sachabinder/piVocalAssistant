@@ -9,7 +9,7 @@ This is the project repository of following video tutorials on YouTube:
   <img src="https://img.youtube.com/vi/vTR4IsfkEKc/0.jpg" width="30%">
 </a>
 <a href="https://www.youtube.com/watch?v=TRBs1BdQ9ks" target="_blank">
-  <img src="https://img.youtube.com/vi/vTRBs1BdQ9ks/0.jpg" width="30%">
+  <img src="https://img.youtube.com/vi/TRBs1BdQ9ks/0.jpg" width="30%">
 </a>
 
 This project implements a personal voice assistant on a Raspberry Pi using Python. The assistant can listen to user commands, process them using [OpenAI's API](https://platform.openai.com/), make research on the internet using [Google Search API](https://serpapi.com/) and respond via text-to-speech. It supports wake and sleep words, and optional web search for enhanced query handling.
